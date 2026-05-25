@@ -72,15 +72,15 @@ Analysed bank customer financial data to derive meaningful insights about custom
 ## 📁 Repository Structure
 | File | Description |
 |------|-------------|
-| bank_customers.xlsx | Cleaned Excel dataset |
-| Mini.pbix | Power BI dashboard file |
-| dashboard_screenshot.png | Final dashboard screenshot |
+| Bank Customers Financial Analysis.xlsx | Cleaned Excel dataset |
+| Bank Customers Financial Analysis.pbix | Power BI dashboard file |
+| Dashboard.png | Final dashboard screenshot |
 | README.md | Project documentation |
 
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard.png)
 
 ---
 
